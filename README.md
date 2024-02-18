@@ -1,7 +1,5 @@
-# roles
+# Users Mona Roles
 
-This library was generated with [Nx](https://nx.dev).
+Users Mona Roles is role checking util library for UsersMona
 
-## Running unit tests
-
-Run `nx test roles` to execute the unit tests via [Jest](https://jestjs.io).
+Will be documented well soon
