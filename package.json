@@ -1,8 +1,9 @@
 {
   "name": "@ubs-platform/users-mona-roles",
-  "version": "1.0.1",
+  "version": "1.0.9",
   "private": false,
   "main": "dist/index.js",
+  "license": "MIT",
   "author": "Unlimited Bundle Systems",
   "homepage": "https://github.com/ubs-platform/users-mona-roles",
   "repository": {
